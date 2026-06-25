@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Bharat Pawar
 
-<!--
-**bharatpawar2601/bharatpawar2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+* 🎓 Computer Engineering Student
+* 🌐 Aspiring Full Stack Web Developer
+* 🐍 Python Programmer
+* 💡 Passionate about building real-world projects
+* 📈 Open to Internship Opportunities
+-----------------------------------------
+## 🛠️ Skills
+### Programming Languages
+* Python
+* JavaScript
+* C++
+### Web Development
+* HTML
+* CSS
+* JavaScript
+### Tools & Technologies
+* GitHub
+* VS Code
+* MySQL
+-----------------------------------------
+## 🚀 Projects
+* Calculator
+* Event Calender
+* Chatbot
+* Number Guessing Game
+-----------------------------------------
+## 🎯 Goals for 2026
+* Build 10+ GitHub Projects
+* Contribute to Open Source
+* Secure a Software Development Internship
+-----------------------------------------
+## 📫 Connect With Me
+* LinkedIn: https://www.linkedin.com/in/bharat-pawar-bsp260105/
+* Email: bharatsp260105@gmail.com 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
